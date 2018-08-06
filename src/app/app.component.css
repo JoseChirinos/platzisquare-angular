@@ -1,0 +1,16 @@
+.mainBanner{
+  background: #f3f3f3;
+  padding: 35px 0px;
+}
+.mainLogo{
+  width: 320px;
+  padding: 32px 0px;
+}
+.subhead h5,
+.subhead img{
+  display: inline-block;
+  vertical-align: middle;
+}
+.subhead img{
+  width: 30px;
+}
